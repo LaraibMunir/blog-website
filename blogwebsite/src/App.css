@@ -1,0 +1,39 @@
+/* App.css */
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0056b3;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  font-size: 1.2rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
